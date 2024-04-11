@@ -14,5 +14,9 @@ public class Persona {
 		return "1234567";
 
 	}
+	
+	public String apellido() {
+		return "Valdez";
+	}
 
 }
