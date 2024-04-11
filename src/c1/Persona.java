@@ -9,5 +9,10 @@ public class Persona {
 	public Integer edad() {
 		return 1;
 	}
+				
+	public String DNI() {
+		return "1234567";
+
+	}
 
 }
