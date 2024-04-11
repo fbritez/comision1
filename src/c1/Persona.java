@@ -15,4 +15,7 @@ public class Persona {
 
 	}
 
+	public float sueldo() {
+		return 400.0f;
+	}
 }
